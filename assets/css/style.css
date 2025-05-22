@@ -109,6 +109,10 @@ h2 {
 }
 
 
+#contact .table-dark * {
+   background-color: transparent;
+}
+
 /* grid visualisation CSS for testing */
 
 /* .container, .row {
